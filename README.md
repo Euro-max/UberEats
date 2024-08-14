@@ -1,3 +1,4 @@
+This app is made possible thanks to useState,useEffect,EventHandlers for the filter buttons, fetch for Spoonacaular API which determines the best you can consume per day according to your needs, responsive web design using Flexbox, Grid, and Box Model cores, The app is compliant with modern design principles using Coolors, GetWaves. ALso, The app includes darkMode
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
